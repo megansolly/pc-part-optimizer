@@ -5,6 +5,13 @@ The **PC Part Optimizer** is a PC part picker and optimization model that genera
 
 The optimizer removes the need for extensive manual research by automatically producing a full list of parts that a user can purchase to build a powerful and well-balanced gaming PC.
 
+## Group Project & My Contribution
+This project was completed as part of a team. My contributions included:
+
+- Assisting in creating the optimization model that selects the best PC components
+- Writing and testing the Jupyter Notebook code
+- Assisting with data collection and performance evaluation of components
+
 ---
 
 ## Motivation
